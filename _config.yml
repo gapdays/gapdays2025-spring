@@ -11,7 +11,7 @@ tagline:          'A workshop for GAP developers and users'
 description:      '6-11 April 2025'
 location:         'Vrije Universiteit Brussel'
 url:              https://www.gapdays.de
-baseurl:          /gapdays2024-summer
+baseurl:          /gapdays2025-spring
 email:            gapdays2024-summer@gapdays.de
 
 exclude: 
