@@ -6,10 +6,10 @@ highlighter:      rouge
 permalink:        pretty
 
 # Setup
-title:            'GAP Days Summer 2024'
+title:            'GAP Days Spring 2025'
 tagline:          'A workshop for GAP developers and users'
-description:      '26-30 August 2024'
-location:         'University of St Andrews'
+description:      '6-11 April 2025'
+location:         'Vrije Universiteit Brussel'
 url:              https://www.gapdays.de
 baseurl:          /gapdays2024-summer
 email:            gapdays2024-summer@gapdays.de
