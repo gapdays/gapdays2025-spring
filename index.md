@@ -31,12 +31,14 @@ and its infrastructure.
 Please visit the [topics page]({{ site.baseurl }}/topics) for details.
  -->
 
-The schedule can be found on [the program page]({{ site.baseurl }}/program).
-
-We will also include a small number of talks during the GAP Days about GAP itself. 
-If there is a particular topic in this area that
-you would like to talk about, then please include details in the comment
-box at registration, or email us later.
+The GAP Days Spring 2025 will be the first edition in Brussels, Belgium! 
+Since this is the first edition on Belgian soil, the organizers would like 
+to include a number of minicourses on a diverse range of mathematical topics, 
+including topics from group theory, algebra and discrete mathematics. A minicourse
+will consist of two hours of lecture in the morning, with an exercise session (in GAP, obviously)
+in the afternoon. We will organize parallel sessions for developers. As such, 
+master and PhD students in mathematics interested to use GAP to support their mathematical
+work, will be able to learn GAP and also meet developers. 
 
 We warmly invite all people interested with
 little knowledge of the insides of GAP to join in as well: this includes undergraduate
@@ -44,12 +46,13 @@ students, PhD students, post-docs, and more experienced mathematicians. You will
 be able to meet us and each other, and learn about GAP development and
 algorithmic group theory in a relaxed and friendly atmosphere.
 
+The schedule can be found on [the program page]({{ site.baseurl }}/program).
 
 {{site.title}} is organised by
 
-* [Ruth Hoffmann](https://www.st-andrews.ac.uk/computer-science/people/rh347/)
-* [Mun See Chang](https://www.st-andrews.ac.uk/computer-science/people/msc2/)
-* [Michael Young](https://www.st-andrews.ac.uk/computer-science/people/mct25/)
+* [Philippe Cara](https://wids.research.vub.be/en/jan-de-beule)
+* [Jan De Beule](https://wids.research.vub.be/nl/philippe-cara)
+* [Leandro Vendramin](https://leandrovendramin.org)
 
 ## Registration
 
