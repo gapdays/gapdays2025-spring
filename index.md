@@ -40,6 +40,9 @@ in the afternoon. We will organize parallel sessions for developers. As such,
 master and PhD students in mathematics interested to use GAP to support their mathematical
 work, will be able to learn GAP and also meet developers. 
 
+The minicourse will be given by researchers who are also enthousiastic GAP users and/or GAP developers. 
+We have confirmed minicourses by [Ilaria Collazo](https://www.ilariacolazzo.info/new/) and [Bettina Eick](http://www.iaa.tu-bs.de/beick/).
+
 We warmly invite all people interested with
 little knowledge of the insides of GAP to join in as well: this includes undergraduate
 students, PhD students, post-docs, and more experienced mathematicians. You will
@@ -63,7 +66,7 @@ For registration use the form on [the registration page]({{ site.baseurl }}/regi
 
 ## Sponsors
 
-This workshop is supported by the EPSRC ECR International Collaboration Grant [EP/Y000609/1](https://gow.epsrc.ukri.org/NGBOViewGrant.aspx?GrantRef=EP/Y000609/1).
+This workshop is supported by different research grants of the organizers. 
 
 ## <a name="contact"></a> Contact
 
