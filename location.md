@@ -2,19 +2,17 @@
 layout: page
 title: Location
 ---
-These GAP Days will take place in St Andrews (Scotland),
-at the [University of St Andrews](https://www.st-andrews.ac.uk/).
+These GAP Days will take place in Brussels (Belgium),
+at the [Vrije Universiteit Brussel](https://www.vub.be/).
 
 
 ## Address
 
-The meeting takes place in [room XL of Kinnessburn building](https://www.st-andrews.ac.uk/roomBookingView/index/201-A_00_RM%20XL#map): 
+The meeting takes place in the Department of Mathematics and Data Science, which is located in Building G, sixth floor, on the [Main Campus of the Vrije Universiteit Brussel](https://www.vub.be/en/about-vub/faculties-institutes-and-campuses/our-campuses/vub-main-campus-brussels):
 
-
-Kinnessburn<br>
-Kennedy Gardens<br>
-St Andrews<br>
-KY16 9DJ
+Pleinlaan 2<br>
+B--1050 Brussel<br>
+Belgium
 
 <!-- 
 
