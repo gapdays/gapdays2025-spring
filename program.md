@@ -4,7 +4,7 @@ title: Program
 ---
 
 
-* __Start:__ Monday 6 April 2025 <!-- , 9:00 UTC -->
+* __Start:__ Monday 7 April 2025 <!-- , 9:00 UTC -->
 * __Finish:__ Friday 11 April 2025
 
 We aim to have introductory sessions on GAP for students and researchers interested to use GAP to support their research. The invited speakers will address some topics in algebra, group theory and discrete mathematics related to GAP, and provide some exercises for the students in parallel with working sessions for developpers. 
