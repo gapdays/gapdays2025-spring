@@ -66,7 +66,7 @@ For registration use the form on [the registration page]({{ site.baseurl }}/regi
 
 ## Sponsors
 
-This workshop is supported by different research grants of the organizers. 
+This workshop is supported by the Research Foundation Flanders (Belgium) (FWO) and the Vrije Universiteit Brussel (VUB).
 
 ## <a name="contact"></a> Contact
 
