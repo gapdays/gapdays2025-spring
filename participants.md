@@ -3,7 +3,9 @@ layout: page
 title: Participants
 participants:
   - {name: Philippe Cara, affiliation: "Vrije Universiteit Brussel, Belgium"}
+  - {name: Ilaria Colazzo, affiliation: "University of Leeds, United Kingdom"}
   - {name: Jan De Beule, affiliation: "Vrije Universiteit Brussel, Belgium"}
+  - {name: Bettina Eick, affiliation: "Technische Universität Braunschweig"}
   - {name: Leandro Vendramin, affiliation: "Vrije Universiteit Brussel, Belgium"}
 
 ---
