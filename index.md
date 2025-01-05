@@ -41,7 +41,8 @@ master and PhD students in mathematics interested to use GAP to support their ma
 work, will be able to learn GAP and also meet developers. 
 
 The minicourse will be given by researchers who are also enthusiastic GAP users and/or GAP developers. 
-We have confirmed minicourses by [Ilaria Colazzo](https://www.ilariacolazzo.info/new/) and [Bettina Eick](http://www.iaa.tu-bs.de/beick/).
+We have confirmed minicourses by [Ilaria Colazzo](https://www.ilariacolazzo.info/new/), [Bettina Eick](http://www.iaa.tu-bs.de/beick/)
+and [Michel Lavrauw](https://osebje.famnit.upr.si/~michel.lavrauw/).
 
 We warmly invite all people interested with
 little knowledge of the insides of GAP to join in as well: this includes undergraduate
