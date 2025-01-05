@@ -7,6 +7,7 @@ participants:
   - {name: Jan De Beule, affiliation: "Vrije Universiteit Brussel, Belgium"}
   - {name: Bettina Eick, affiliation: "Technische Universität Braunschweig"}
   - {name: Leandro Vendramin, affiliation: "Vrije Universiteit Brussel, Belgium"}
+  - {name: Michel Lavrauw, affiliation: " University of Primorska, Slovenia"}
 
 ---
 
