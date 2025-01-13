@@ -7,7 +7,8 @@ participants:
   - {name: Jan De Beule, affiliation: "Vrije Universiteit Brussel, Belgium"}
   - {name: Bettina Eick, affiliation: "Technische Universität Braunschweig"}
   - {name: Leandro Vendramin, affiliation: "Vrije Universiteit Brussel, Belgium"}
-  - {name: Michel Lavrauw, affiliation: " University of Primorska, Slovenia"}
+  - {name: Michel Lavrauw, affiliation: "University of Primorska, Slovenia"}
+  - {name: Seyyed Ali Mohammadiyeh, affiliation: "University of Kashan, Iran"}
 ---
 
 <ol>{% assign participants = page.participants | sort: "name" %}
