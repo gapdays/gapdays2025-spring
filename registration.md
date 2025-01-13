@@ -15,13 +15,20 @@ registration_state: open
 <p class="message">Registration is open.</p>
 
 In order to participate in this meeting, please register with us, even if you only
-wish to join for parts of the meeting.
+wish to join for parts of the meeting. If you plan to not attend all five days of the whole week, 
+simply indicate this in the questions/remarks field of the registration form. 
 
+<!--### Talks
+We are looking for more talks, so please <a href="mailto:{{site.email}}">contact us via email</a> and let us know if you would like to give a talk about your research! We welcome talks about computational mathematics research, which utilised GAP.
+-->
+
+### Talks
+We will have some slots for contributed talks. You can indicated through the registration form whether you would like to give a short talk about your research on computational mathematics utilizing GAP! 
+
+### Registration form
 To register please send an fill out the linked [form](https://forms.office.com/e/CQ7zTGiF6D).
 
 
-### Talks
-We are looking for more talks, so please <a href="mailto:{{site.email}}">contact us via email</a> and let us know if you would like to give a talk about your research! We welcome talks about computational mathematics research, which utilised GAP.
 
 <!--
 ### On funding
