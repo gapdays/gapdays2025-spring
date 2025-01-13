@@ -12,7 +12,7 @@ description:      '7-11 April 2025'
 location:         'Vrije Universiteit Brussel'
 url:              https://www.gapdays.de
 baseurl:          /gapdays2025-spring
-email:            gapdays2024-summer@gapdays.de
+email:            gapdays2025-spring@gapdays.de
 
 exclude: 
     - "LICENSE.hyde.md"
