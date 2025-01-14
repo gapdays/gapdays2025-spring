@@ -8,6 +8,7 @@ participants:
   - {name: Bettina Eick, affiliation: "Technische Universität Braunschweig"}
   - {name: Leandro Vendramin, affiliation: "Vrije Universiteit Brussel, Belgium"}
   - {name: Michel Lavrauw, affiliation: " University of Primorska, Slovenia"}
+  - {name: Henrik Schanze, affiliation: "Technische Universität Braunschweig"}
 ---
 
 <ol>{% assign participants = page.participants | sort: "name" %}
