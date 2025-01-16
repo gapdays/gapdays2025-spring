@@ -34,7 +34,7 @@ More infomration can be found on [how to reach the main campus of VUB](https://w
 
 ## Accommodation
 
-I have to check this carefully... 
+The campus of VUB is located in a lively area of the Brussels' region. There are plenty of airbnb options. Hotel Access Brussels Delta Aparthotel is located very close to the campus. They offer a variety of rooms and studios that can be booked through a [VUB corporate rate](https://www.vub.be/en/services-vub-campuses-in-etterbeek-and-jette/facilities-vub-campus/accommodation-and-around-our-campuses)
 
 <!-- 
 ## Restaurants
