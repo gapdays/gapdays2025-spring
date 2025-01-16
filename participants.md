@@ -9,6 +9,9 @@ participants:
   - {name: Leandro Vendramin, affiliation: "Vrije Universiteit Brussel, Belgium"}
   - {name: Michel Lavrauw, affiliation: " University of Primorska, Slovenia"}
   - {name: Henrik Schanze, affiliation: "Technische Universität Braunschweig"}
+  - {name: Max Horn, affiliation: "RPTU Kaiserslautern-Landau"}
+  - {name: Leonard Soicher, affiliation: "Queen Mary University of London"}
+  - {name: Robin Simoens, affiliation: "Ghent University and Universitat Politècnica de Catalunya"}
 ---
 
 <ol>{% assign participants = page.participants | sort: "name" %}
