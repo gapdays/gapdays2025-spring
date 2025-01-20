@@ -12,6 +12,7 @@ participants:
   - {name: Max Horn, affiliation: "RPTU Kaiserslautern-Landau"}
   - {name: Leonard Soicher, affiliation: "Queen Mary University of London"}
   - {name: Robin Simoens, affiliation: "Ghent University and Universitat Politècnica de Catalunya"}
+  - {name: Vinay Vilas Wagh, affiliation: "Indian Institute of Technology Guwahati, India (IIT Guwahati)"}
 ---
 
 <ol>{% assign participants = page.participants | sort: "name" %}
