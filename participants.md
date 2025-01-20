@@ -13,6 +13,7 @@ participants:
   - {name: Leonard Soicher, affiliation: "Queen Mary University of London"}
   - {name: Robin Simoens, affiliation: "Ghent University and Universitat Politècnica de Catalunya"}
   - {name: Vinay Vilas Wagh, affiliation: "Indian Institute of Technology Guwahati, India (IIT Guwahati)"}
+  - {name: Thomas Breuer, affiliation: "Lehrstuhl für Algebra und Zahlentheorie, RWTH Aachen"}
 ---
 
 <ol>{% assign participants = page.participants | sort: "name" %}
