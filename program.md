@@ -19,7 +19,84 @@ communicate what we plan to work on, and what we have worked on, respectively.
 
 The schedule will be setup closer to the meeting.
 
+- **Monday**
+
+  - 9:45 Morning coffee, Welcome and opening
+  - 10:00 Stand up and technical discussion
+  - 10:30 lecture 1 of Ilaria
+  - 11:30 exercise session 1 of Ilaria / Parallel: working session for developers
+  - 12:30 *Lunch break*
+  - 13:30 lecture 2 of Ilaria
+  - 14:30 exercise session 2 of Ilaria / Parallel: working session for developers
+  - 15:30 coffee
+  - 16:00 Discussion
+  - 17:00 Stand-up Meeting: Results from work sessions
+
+
 <!-- 
+
+
+Tuesday April 8:
+
+9:30 Drop in of developers
+10:00 Stand up and technical discussion
+10:30 lecture 3 of Ilaria
+11:30 exercise session 3 of Ilaria / Parallel: working session for developers
+
+12:30 lunch break
+
+13:30 lecture 1 of Bettina
+14:30 exercise session 1 of Bettina / Parallel: working session for developers
+15:30 coffee
+16:00 Discussion
+17:00 Stand-up Meeting: Results from work sessions
+
+
+Wednesday April 9:
+
+9:30 Drop in of developers
+10:00 Stand up and technical discussion
+10:30 lecture 2 of Bettina
+11:30 exercise session 2 of Bettina / Parallel: working session for developers
+
+12:30 lunch break
+
+13:30 lecture 3 of Bettina
+14:30 exercise session 3 of Bettina / Parallel: working session for developers
+15:30 coffee
+16:00 Discussion
+17:00 Stand-up Meeting: Results from work sessions
+
+Thursday April 10:
+
+9:30 Drop in of developers
+10:00 Stand up and technical discussion
+10:30 lecture 1 of Michel
+11:30 exercise session 1 of Michel / Parallel: working session for developers
+
+12:30 lunch break
+
+13:30 lecture 2 of Michel
+14:30 exercise session 2 of Michel / Parallel: working session for developers
+15:30 coffee
+16:00 Discussion
+17:00 Stand-up Meeting: Results from work sessions
+
+
+Friday April 11:
+
+9:30 Drop in of developers
+10:00 Stand up and technical discussion
+10:30 lecture 3 of Michel
+11:30 exercise session 3 of Michel / Parallel: working session for developers
+
+12:30 lunch break
+
+13:30 Working session for developers
+15:00 Coffee and closing
+
+
+
 
 - **Monday**
   - 10:00 Welcome 
