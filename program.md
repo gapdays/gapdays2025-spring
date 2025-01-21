@@ -13,13 +13,135 @@ We aim to have introductory sessions on GAP for students and researchers interes
 But we are looking for more talks, so please <a href="mailto:{{site.email}}">contact us via email</a> and let us know if you would like to give a talk about your research! We welcome talks about computational mathematics research, which utilised GAP.-->
 ## Detailed schedule
 
-We will open with a meeting at Monday morning to coordinate plans for the week,
-and follow a pattern of "Standups" each day at around 9:00 and 16:45, to
-communicate what we plan to work on, and what we have worked on, respectively.
+We will open with a meeting at Monday morning at 9:45. Around 10:00 we coordinate plans for the week,
+and follow a pattern of "Standups" each day at around 10:00 and 17:00, to
+communicate what we plan to work on, and what we have worked on, respectively. There will be two lectures of the minicourses per day 
+and two hours of exercises in parallel with working sessions. 
 
-The schedule will be setup closer to the meeting.
+The schedule is subject to further changes. 
+- **Monday**
+
+  - 9:45 Morning coffee, Welcome and opening
+  - 10:00 Stand up and technical discussion
+  - 10:30 Minicourse Ilaria Colazzo: lecture 1
+  - 11:30 Minicourse Ilaria Colazzo: exercises 1 / Parallel: working session for developers
+  - 12:30 *Lunch break*
+  - 13:30 Minicourse Ilaria Colazzo: lecture 2
+  - 14:30 Minicourse Ilaria Colazzo: exercises 2 / Parallel: working session for developers
+  - 15:30 *coffee break*
+  - 16:00 Discussion
+  - 17:00 Stand-up Meeting: Results from work sessions
+
+- **Tuesday**
+
+  - 10:00 Stand up and technical discussion
+  - 10:30 Minicourse Ilaria Colazzo: lecture 3
+  - 11:30 Minicourse Ilaria Colazzo: exercises 3 / Parallel: working session for developers
+  - 12:30 *Lunch break*
+  - 13:30 Minicourse Bettina Eick: lecture 1
+  - 14:30 Minicourse Bettina Eick: exercises 1 / Parallel: working session for developers
+  - 15:30 *coffee break*
+  - 16:00 Discussion
+  - 17:00 Stand-up Meeting: Results from work sessions
+
+- **Wednesday**
+
+  - 10:00 Stand up and technical discussion
+  - 13:30 Minicourse Bettina Eick: lecture 2
+  - 11:30 Minicourse Bettina Eick: exercises 2 / Parallel: working session for developers
+  - 12:30 *Lunch break*
+  - 13:30 Minicourse Bettina Eick: lecture 3
+  - 14:30 Minicourse Bettina Eick: exercises 3 / Parallel: working session for developers
+  - 15:30 *coffee break*
+  - 16:00 Discussion
+  - 17:00 Stand-up Meeting: Results from work sessions
+
+- **Thursday**
+
+  - 10:00 Stand up and technical discussion
+  - 13:30 Minicourse Michel Lavrauw: lecture 1
+  - 11:30 Minicourse Michel Lavrauw: exercises 1 / Parallel: working session for developers
+  - 12:30 *Lunch break*
+  - 13:30 Minicourse Michel Lavrauw: lecture 2
+  - 14:30 Minicourse Michel Lavrauw: exercises 2 / Parallel: working session for developers
+  - 15:30 *coffee break*
+  - 16:00 Discussion
+  - 17:00 Stand-up Meeting: Results from work sessions
+
+- **Friday**
+
+  - 10:00 Stand up and technical discussion
+  - 13:30 Minicourse Michel Lavrauw: lecture 3
+  - 11:30 Minicourse Michel Lavrauw: exercises 3 / Parallel: working session for developers
+  - 12:30 *Lunch break*
+  - 13:30 working session for developers
+  - 14:30 Minicourse Michel Lavrauw: exercises 2 / Parallel: working session for developers
+  - 15:00 coffee and closing
 
 <!-- 
+
+
+Tuesday April 8:
+
+9:30 Drop in of developers
+10:00 Stand up and technical discussion
+10:30 lecture 3 of Ilaria
+11:30 exercise session 3 of Ilaria / Parallel: working session for developers
+
+12:30 lunch break
+
+13:30 lecture 1 of Bettina
+14:30 exercise session 1 of Bettina / Parallel: working session for developers
+15:30 coffee
+16:00 Discussion
+17:00 Stand-up Meeting: Results from work sessions
+
+
+Wednesday April 9:
+
+9:30 Drop in of developers
+10:00 Stand up and technical discussion
+10:30 lecture 2 of Bettina
+11:30 exercise session 2 of Bettina / Parallel: working session for developers
+
+12:30 lunch break
+
+13:30 lecture 3 of Bettina
+14:30 exercise session 3 of Bettina / Parallel: working session for developers
+15:30 coffee
+16:00 Discussion
+17:00 Stand-up Meeting: Results from work sessions
+
+Thursday April 10:
+
+9:30 Drop in of developers
+10:00 Stand up and technical discussion
+10:30 lecture 1 of Michel
+11:30 exercise session 1 of Michel / Parallel: working session for developers
+
+12:30 lunch break
+
+13:30 lecture 2 of Michel
+14:30 exercise session 2 of Michel / Parallel: working session for developers
+15:30 coffee
+16:00 Discussion
+17:00 Stand-up Meeting: Results from work sessions
+
+
+Friday April 11:
+
+9:30 Drop in of developers
+10:00 Stand up and technical discussion
+10:30 lecture 3 of Michel
+11:30 exercise session 3 of Michel / Parallel: working session for developers
+
+12:30 lunch break
+
+13:30 Working session for developers
+15:00 Coffee and closing
+
+
+
 
 - **Monday**
   - 10:00 Welcome 
