@@ -13,6 +13,8 @@ participants:
   - {name: Leonard Soicher, affiliation: "Queen Mary University of London"}
   - {name: Robin Simoens, affiliation: "Ghent University and Universitat Politècnica de Catalunya"}
   - {name: Vinay Vilas Wagh, affiliation: "Indian Institute of Technology Guwahati, India (IIT Guwahati)"}
+  - {name: Meike Weiß, affiliation: "RWTH Aachen"}
+  - {name: Ruth Hoffmann, affiliation: "University of St Andrews"}
 ---
 
 <ol>{% assign participants = page.participants | sort: "name" %}
