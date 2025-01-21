@@ -13,12 +13,12 @@ We aim to have introductory sessions on GAP for students and researchers interes
 But we are looking for more talks, so please <a href="mailto:{{site.email}}">contact us via email</a> and let us know if you would like to give a talk about your research! We welcome talks about computational mathematics research, which utilised GAP.-->
 ## Detailed schedule
 
-We will open with a meeting at Monday morning to coordinate plans for the week,
-and follow a pattern of "Standups" each day at around 9:00 and 16:45, to
-communicate what we plan to work on, and what we have worked on, respectively.
+We will open with a meeting at Monday morning at 9:45. Around 10:00 we coordinate plans for the week,
+and follow a pattern of "Standups" each day at around 10:00 and 17:00, to
+communicate what we plan to work on, and what we have worked on, respectively. There will be two lectures of the minicourses per day 
+and two hours of exercises in parallel with working sessions. 
 
-The schedule will be setup closer to the meeting.
-
+The schedule is subject to further changes. 
 - **Monday**
 
   - 9:45 Morning coffee, Welcome and opening
