@@ -23,15 +23,60 @@ The schedule will be setup closer to the meeting.
 
   - 9:45 Morning coffee, Welcome and opening
   - 10:00 Stand up and technical discussion
-  - 10:30 lecture 1 of Ilaria
-  - 11:30 exercise session 1 of Ilaria / Parallel: working session for developers
+  - 10:30 Minicourse Ilaria Colazzo: lecture 1
+  - 11:30 Minicourse Ilaria Colazzo: exercises 1 / Parallel: working session for developers
   - 12:30 *Lunch break*
-  - 13:30 lecture 2 of Ilaria
-  - 14:30 exercise session 2 of Ilaria / Parallel: working session for developers
-  - 15:30 coffee
+  - 13:30 Minicourse Ilaria Colazzo: lecture 2
+  - 14:30 Minicourse Ilaria Colazzo: exercises 2 / Parallel: working session for developers
+  - 15:30 *coffee break*
   - 16:00 Discussion
   - 17:00 Stand-up Meeting: Results from work sessions
 
+- **Tuesday**
+
+  - 10:00 Stand up and technical discussion
+  - 10:30 Minicourse Ilaria Colazzo: lecture 3
+  - 11:30 Minicourse Ilaria Colazzo: exercises 3 / Parallel: working session for developers
+  - 12:30 *Lunch break*
+  - 13:30 Minicourse Bettina Eick: lecture 1
+  - 14:30 Minicourse Bettina Eick: exercises 1 / Parallel: working session for developers
+  - 15:30 *coffee break*
+  - 16:00 Discussion
+  - 17:00 Stand-up Meeting: Results from work sessions
+
+- **Wednesday**
+
+  - 10:00 Stand up and technical discussion
+  - 13:30 Minicourse Bettina Eick: lecture 2
+  - 11:30 Minicourse Bettina Eick: exercises 2 / Parallel: working session for developers
+  - 12:30 *Lunch break*
+  - 13:30 Minicourse Bettina Eick: lecture 3
+  - 14:30 Minicourse Bettina Eick: exercises 3 / Parallel: working session for developers
+  - 15:30 *coffee break*
+  - 16:00 Discussion
+  - 17:00 Stand-up Meeting: Results from work sessions
+
+- **Thursday**
+
+  - 10:00 Stand up and technical discussion
+  - 13:30 Minicourse Michel Lavrauw: lecture 1
+  - 11:30 Minicourse Michel Lavrauw: exercises 1 / Parallel: working session for developers
+  - 12:30 *Lunch break*
+  - 13:30 Minicourse Michel Lavrauw: lecture 2
+  - 14:30 Minicourse Michel Lavrauw: exercises 2 / Parallel: working session for developers
+  - 15:30 *coffee break*
+  - 16:00 Discussion
+  - 17:00 Stand-up Meeting: Results from work sessions
+
+- **Friday**
+
+  - 10:00 Stand up and technical discussion
+  - 13:30 Minicourse Michel Lavrauw: lecture 3
+  - 11:30 Minicourse Michel Lavrauw: exercises 3 / Parallel: working session for developers
+  - 12:30 *Lunch break*
+  - 13:30 working session for developers
+  - 14:30 Minicourse Michel Lavrauw: exercises 2 / Parallel: working session for developers
+  - 15:00 coffee and closing
 
 <!-- 
 
