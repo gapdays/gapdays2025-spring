@@ -35,8 +35,8 @@ The GAP Days Spring 2025 will be the first edition in Brussels, Belgium!
 Since this is the first edition on Belgian soil, the organizers would like 
 to include a number of minicourses on a diverse range of mathematical topics, 
 including topics from group theory, algebra and discrete mathematics. A minicourse
-will consist of two hours of lecture in the morning, with an exercise session (in GAP, obviously)
-in the afternoon. We will organize parallel sessions for developers. As such, 
+will consist of three hours of lectures and three hours of guided exercises (in GAP, obviously). 
+We will organize parallel sessions for developers. As such, 
 master and PhD students in mathematics interested to use GAP to support their mathematical
 work, will be able to learn GAP and also meet developers. 
 
