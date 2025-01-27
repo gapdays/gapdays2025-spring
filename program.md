@@ -7,10 +7,41 @@ title: Program
 * __Start:__ Monday 7 April 2025 <!-- , 9:00 UTC -->
 * __Finish:__ Friday 11 April 2025
 
-We aim to have introductory sessions on GAP for students and researchers interested to use GAP to support their research. The invited speakers will address some topics in algebra, group theory and discrete mathematics related to GAP, and provide some exercises for the students in parallel with working sessions for developpers. 
+We aim to have introductory sessions on GAP for students and researchers interested to use GAP to support their research. The invited speakers will present a minicourse addressing topics in algebra, group theory and discrete mathematics related to GAP, and provide some exercises for the students in parallel with working sessions for developpers. 
 
 <!--
 But we are looking for more talks, so please <a href="mailto:{{site.email}}">contact us via email</a> and let us know if you would like to give a talk about your research! We welcome talks about computational mathematics research, which utilised GAP.-->
+
+## Minicourses
+
+- **Minicourse 1 by Illaria Colazzo**
+
+1. Introduction to GAP: Basics of Computation
+Topics: Basic arithmetic, programming, linear algebra, and an introduction to group theory concepts.
+
+2. Group Theory in GAP: Permutation and Finite Groups
+Topics: Permutation groups, cyclic groups, dihedral groups, symmetric groups, and alternating groups.
+
+3. Group Theory in GAP: Matrix Groups and Homomorphisms
+Topics: Matrix groups, group homomorphisms, and automorphism groups, with computational applications.
+
+- **Minicourse 2 by Bettina Eick**
+
+1. Finite p-groups and finite solvable groups in GAP
+
+2. Classification of finite groups (SmallGroups / GrpConst packages)
+
+3. The Lazard correspondence and Lie p-rings in GAP (LiePRing package)
+
+- **Minicourse 3 by Michel Lavrauw**
+
+1. Projective spaces over finite fields in GAP (FinInG package)
+
+2. Coding theory in GAP (guava package)
+
+3. Incidence geometries and substructure (FinInG package)
+
+
 ## Detailed schedule
 
 We will open with a meeting at Monday morning at 9:45. Around 10:00 we coordinate plans for the week,

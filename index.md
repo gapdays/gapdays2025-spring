@@ -44,32 +44,6 @@ The minicourse will be given by researchers who are also enthusiastic GAP users 
 We have confirmed minicourses by [Ilaria Colazzo](https://www.ilariacolazzo.info/new/), [Bettina Eick](http://www.iaa.tu-bs.de/beick/)
 and [Michel Lavrauw](https://osebje.famnit.upr.si/~michel.lavrauw/). The preliminaries contents of the minicourses are as follows.
 
-- **Minicourse 1 by Illaria Colazzo**
-
-1. Introduction to GAP: Basics of Computation
-Topics: Basic arithmetic, programming, linear algebra, and an introduction to group theory concepts.
-
-2. Group Theory in GAP: Permutation and Finite Groups
-Topics: Permutation groups, cyclic groups, dihedral groups, symmetric groups, and alternating groups.
-
-3. Group Theory in GAP: Matrix Groups and Homomorphisms
-Topics: Matrix groups, group homomorphisms, and automorphism groups, with computational applications.
-
-- **Minicourse 2 by Bettina Eick**
-1. Finite p-groups and finite solvable groups in GAP
-
-2. Classification of finite groups (SmallGroups / GrpConst packages)
-
-3. The Lazard correspondence and Lie p-rings in GAP (LiePRing package)
-
-- **Minicourse 3 by Michel Lavrauw**
-
-1. Projective spaces over finite fields in GAP (FinInG package)
-
-2. Coding theory in GAP (guava package)
-
-3. Incidence geometries and substructure (FinInG package)
-
 We warmly invite all people interested with
 little knowledge of the insides of GAP to join in as well: this includes undergraduate
 students, PhD students, post-docs, and more experienced mathematicians. You will
