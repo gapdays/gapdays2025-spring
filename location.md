@@ -15,6 +15,7 @@ B--1050 Brussel<br>
 Belgium
 
 The conference room will be lecture room 6G.52. This room is equipped with blackboard and beamer with hdmi connection. Coffee breaks will be held in room 6G.60. Furthermore, three smaller breakout rooms are available for the conference in the department as well. 
+
 <!-- 
 
 [University website with travel suggestions.](https://rptu.de/en/routes-and-means-of-transport).
