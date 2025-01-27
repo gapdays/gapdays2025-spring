@@ -42,7 +42,8 @@ work, will be able to learn GAP and also meet developers.
 
 The minicourse will be given by researchers who are also enthusiastic GAP users and/or GAP developers. 
 We have confirmed minicourses by [Ilaria Colazzo](https://www.ilariacolazzo.info/new/), [Bettina Eick](http://www.iaa.tu-bs.de/beick/)
-and [Michel Lavrauw](https://osebje.famnit.upr.si/~michel.lavrauw/). The preliminaries contents of the minicourses are as follows.
+and [Michel Lavrauw](https://osebje.famnit.upr.si/~michel.lavrauw/). The preliminarie contents of the minicourses can 
+be found at the [the program page]({{ site.baseurl }}/program).
 
 We warmly invite all people interested with
 little knowledge of the insides of GAP to join in as well: this includes undergraduate
