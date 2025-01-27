@@ -14,6 +14,8 @@ participants:
   - {name: Robin Simoens, affiliation: "Ghent University and Universitat Politècnica de Catalunya"}
   - {name: Vinay Vilas Wagh, affiliation: "Indian Institute of Technology Guwahati, India (IIT Guwahati)"}
   - {name: Thomas Breuer, affiliation: "Lehrstuhl für Algebra und Zahlentheorie, RWTH Aachen"}
+  - {name: Meike Weiß, affiliation: "RWTH Aachen"}
+  - {name: Ruth Hoffmann, affiliation: "University of St Andrews"}
 ---
 
 <ol>{% assign participants = page.participants | sort: "name" %}
