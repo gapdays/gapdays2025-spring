@@ -7,7 +7,7 @@ participants:
   - {name: Jan De Beule, affiliation: "Vrije Universiteit Brussel, Belgium"}
   - {name: Bettina Eick, affiliation: "Technische Universität Braunschweig"}
   - {name: Leandro Vendramin, affiliation: "Vrije Universiteit Brussel, Belgium"}
-  - {name: Michel Lavrauw, affiliation: " University of Primorska, Slovenia"}
+  - {name: Michel Lavrauw, affiliation: "University of Primorska, Slovenia"}
   - {name: Henrik Schanze, affiliation: "Technische Universität Braunschweig"}
   - {name: Max Horn, affiliation: "RPTU Kaiserslautern-Landau"}
   - {name: Leonard Soicher, affiliation: "Queen Mary University of London"}
@@ -16,6 +16,9 @@ participants:
   - {name: Thomas Breuer, affiliation: "Lehrstuhl für Algebra und Zahlentheorie, RWTH Aachen"}
   - {name: Meike Weiß, affiliation: "RWTH Aachen"}
   - {name: Ruth Hoffmann, affiliation: "University of St Andrews"}
+  - {name: Ahmed Khammash, affiliation: "UQU"}
+  - {name: Kamil Zabielski, affiliation: "Bialystok University of Technology"}
+
 ---
 
 <ol>{% assign participants = page.participants | sort: "name" %}
