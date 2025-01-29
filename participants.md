@@ -18,7 +18,7 @@ participants:
   - {name: Ruth Hoffmann, affiliation: "University of St Andrews"}
   - {name: Ahmed Khammash, affiliation: "UQU"}
   - {name: Kamil Zabielski, affiliation: "Bialystok University of Technology"}
-
+  - {name: Nour Alnajjarine, affiliation: "University of Rijeka"}
 ---
 
 <ol>{% assign participants = page.participants | sort: "name" %}
