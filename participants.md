@@ -19,6 +19,8 @@ participants:
   - {name: Ahmed Khammash, affiliation: "UQU"}
   - {name: Kamil Zabielski, affiliation: "Bialystok University of Technology"}
   - {name: Nour Alnajjarine, affiliation: "University of Rijeka"}
+  - {name: Tobias Ocula, affiliation: "Vrije Universiteit Brussel"}
+  - {name: Rasmus Hvass Hansen, affiliation: "Danish Research Centre for Magnetic Resonance (DRCMR)"}
 ---
 
 <ol>{% assign participants = page.participants | sort: "name" %}
