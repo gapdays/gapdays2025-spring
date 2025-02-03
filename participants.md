@@ -21,6 +21,7 @@ participants:
   - {name: Nour Alnajjarine, affiliation: "University of Rijeka"}
   - {name: Tobias Ocula, affiliation: "Vrije Universiteit Brussel"}
   - {name: Rasmus Hvass Hansen, affiliation: "Danish Research Centre for Magnetic Resonance (DRCMR)"}
+  - {name: Pavol Kollár, affiliation: "Comenius University in Bratislava, Slovakia"}
 ---
 
 <ol>{% assign participants = page.participants | sort: "name" %}
