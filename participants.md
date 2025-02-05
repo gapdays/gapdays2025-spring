@@ -24,6 +24,7 @@ participants:
   - {name: Pavol Kollár, affiliation: "Comenius University in Bratislava, Slovakia"}
   - {name: Pieter-Jan Meuris, affiliation: "Vrije Universiteit Brussel"}
   - {name: Óscar Fernández Ayala, affiliation: "Technische Universität Braunschweig"}
+  - {name: Janis Gathot, affiliation: "Vrije Universiteit Brussel"}
 ---
 
 <ol>{% assign participants = page.participants | sort: "name" %}
