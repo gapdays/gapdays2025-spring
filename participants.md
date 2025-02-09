@@ -25,6 +25,8 @@ participants:
   - {name: Pieter-Jan Meuris, affiliation: "Vrije Universiteit Brussel"}
   - {name: Óscar Fernández Ayala, affiliation: "Technische Universität Braunschweig"}
   - {name: Janis Gathot, affiliation: "Vrije Universiteit Brussel"}
+  - {name: Tudor Micu, affiliation: "Babeș-Bolyai University, Cluj-Napoca (Romania)"}
+  - {name: Karmele Garatea Zaballa, affiliation: "UPV/EHU"}
 ---
 
 <ol>{% assign participants = page.participants | sort: "name" %}
