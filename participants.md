@@ -28,6 +28,7 @@ participants:
   - {name: Tudor Micu, affiliation: "Babeș-Bolyai University, Cluj-Napoca (Romania)"}
   - {name: Karmele Garatea Zaballa, affiliation: "UPV/EHU"}
   - {name: Lukas Schnelle, affiliation: "SLA/ART RWTH Aachen"}
+  - {name: Francesca Cavalieri, affiliation: "University of Padova"}
 ---
 
 <ol>{% assign participants = page.participants | sort: "name" %}
