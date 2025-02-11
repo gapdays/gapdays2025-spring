@@ -27,6 +27,7 @@ participants:
   - {name: Janis Gathot, affiliation: "Vrije Universiteit Brussel"}
   - {name: Tudor Micu, affiliation: "Babeș-Bolyai University, Cluj-Napoca (Romania)"}
   - {name: Karmele Garatea Zaballa, affiliation: "UPV/EHU"}
+  - {name: Lukas Schnelle, affiliation: "SLA/ART RWTH Aachen"}
 ---
 
 <ol>{% assign participants = page.participants | sort: "name" %}
