@@ -8,7 +8,28 @@ participants:
   - {name: Bettina Eick, affiliation: "Technische Universität Braunschweig"}
   - {name: Leandro Vendramin, affiliation: "Vrije Universiteit Brussel, Belgium"}
   - {name: Michel Lavrauw, affiliation: "University of Primorska, Slovenia"}
+  - {name: Henrik Schanze, affiliation: "Technische Universität Braunschweig"}
+  - {name: Max Horn, affiliation: "RPTU Kaiserslautern-Landau"}
+  - {name: Leonard Soicher, affiliation: "Queen Mary University of London"}
+  - {name: Robin Simoens, affiliation: "Ghent University and Universitat Politècnica de Catalunya"}
+  - {name: Vinay Vilas Wagh, affiliation: "Indian Institute of Technology Guwahati, India (IIT Guwahati)"}
   - {name: Seyyed Ali Mohammadiyeh, affiliation: "University of Kashan, Iran"}
+  - {name: Thomas Breuer, affiliation: "Lehrstuhl für Algebra und Zahlentheorie, RWTH Aachen"}
+  - {name: Meike Weiß, affiliation: "RWTH Aachen"}
+  - {name: Ruth Hoffmann, affiliation: "University of St Andrews"}
+  - {name: Ahmed Khammash, affiliation: "UQU"}
+  - {name: Kamil Zabielski, affiliation: "Bialystok University of Technology"}
+  - {name: Nour Alnajjarine, affiliation: "University of Rijeka"}
+  - {name: Tobias Ocula, affiliation: "Vrije Universiteit Brussel"}
+  - {name: Rasmus Hvass Hansen, affiliation: "Danish Research Centre for Magnetic Resonance (DRCMR)"}
+  - {name: Pavol Kollár, affiliation: "Comenius University in Bratislava, Slovakia"}
+  - {name: Pieter-Jan Meuris, affiliation: "Vrije Universiteit Brussel"}
+  - {name: Óscar Fernández Ayala, affiliation: "Technische Universität Braunschweig"}
+  - {name: Janis Gathot, affiliation: "Vrije Universiteit Brussel"}
+  - {name: Tudor Micu, affiliation: "Babeș-Bolyai University, Cluj-Napoca (Romania)"}
+  - {name: Karmele Garatea Zaballa, affiliation: "UPV/EHU"}
+  - {name: Lukas Schnelle, affiliation: "SLA/ART RWTH Aachen"}
+  - {name: Francesca Cavalieri, affiliation: "University of Padova"}
 ---
 
 <ol>{% assign participants = page.participants | sort: "name" %}

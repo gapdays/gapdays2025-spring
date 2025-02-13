@@ -14,6 +14,8 @@ Pleinlaan 2<br>
 B--1050 Brussel<br>
 Belgium
 
+The conference room will be lecture room 6G.52. This room is equipped with blackboard and beamer with hdmi connection. Coffee breaks will be held in room 6G.60. Furthermore, three smaller breakout rooms are available for the conference in the department as well. 
+
 <!-- 
 
 [University website with travel suggestions.](https://rptu.de/en/routes-and-means-of-transport).
@@ -34,7 +36,10 @@ More infomration can be found on [how to reach the main campus of VUB](https://w
 
 ## Accommodation
 
-I have to check this carefully... 
+The campus of VUB is located in a lively area of the Brussels' region. There are plenty of airbnb options. Hotel Access Brussels Delta Aparthotel is located very close to the campus. They offer a variety of rooms and studios that can be booked through a [VUB corporate rate](https://www.vub.be/en/services-vub-campuses-in-etterbeek-and-jette/facilities-vub-campus/accommodation-and-around-our-campuses). Note that to be eligbile for the VUB rate, the hotel requires to have a confirmation by one of the organizers. The hotel and organizers agreed that every participant can send a booking request directly to [HB5M6@adagio-city.com](mailto:HB5M6@adagio-city.com), with [Jan De Beule (Jan.De.Beule@vub.be)](mailto:Jan.De.Beule@vub.be) in cc., who will confirm to the hotel every booking request of registered participants.
+
+Alternatively, there is an affordable IBIS hotel [(IBIS Brussels Centre Châtelein)](https://all.accor.com/hotel/B638/index.fr.shtml) located about 2,5 kilometer from campus. There are no particular VUB rates, and booking requests should be made directly through the website of the hotel (or alternative booking sites).
+
 
 <!-- 
 ## Restaurants

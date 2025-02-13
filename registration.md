@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Registration
-registration_state: notyet
+registration_state: open
 ---
 
 {% case page.registration_state %}
@@ -15,13 +15,22 @@ registration_state: notyet
 <p class="message">Registration is open.</p>
 
 In order to participate in this meeting, please register with us, even if you only
-wish to join for parts of the meeting.
+wish to join for parts of the meeting. If you plan to not attend all five days of the whole week, 
+simply indicate this in the questions/remarks field of the registration form. 
 
-To register please send an fill out the linked [form](https://forms.office.com/e/EkXvkpmrhu).
+<!--### Talks
+We are looking for more talks, so please <a href="mailto:{{site.email}}">contact us via email</a> and let us know if you would like to give a talk about your research! We welcome talks about computational mathematics research, which utilised GAP.
+-->
 
 ### Talks
-We are looking for more talks, so please <a href="mailto:{{site.email}}">contact us via email</a> and let us know if you would like to give a talk about your research! We welcome talks about computational mathematics research, which utilised GAP.
+We will have some slots for contributed talks. You can indicated through the registration form whether you would like to give a short talk about your research on computational mathematics utilizing GAP! 
 
+### Registration form
+To register please send an fill out the linked [form](https://forms.office.com/e/CQ7zTGiF6D).
+
+
+
+<!--
 ### On funding
 <s>We have some limited funding to support travel and accommodation costs
 (partially or fully) for participants in need of it. 
@@ -45,6 +54,7 @@ the estimated additional costs to support attendance.
 The deadline for the carer fund is the same as for the general funding (i.e. <b>5th&nbsp;July&nbsp;2024</b>).</s>
 The deadline has now passed.
 We may be able to support later applications depending on the amount, so please don't hesitate to ask.
+-->
 
 ### Questions?
 
