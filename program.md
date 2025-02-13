@@ -78,7 +78,7 @@ The schedule is subject to further changes.
 - **Wednesday**
 
   - 10:00 Stand up and technical discussion
-  - 13:30 Minicourse Bettina Eick: lecture 2
+  - 10:30 Minicourse Bettina Eick: lecture 2
   - 11:30 Minicourse Bettina Eick: exercises 2 / Parallel: working session for developers
   - 12:30 *Lunch break*
   - 13:30 Minicourse Bettina Eick: lecture 3
@@ -90,7 +90,7 @@ The schedule is subject to further changes.
 - **Thursday**
 
   - 10:00 Stand up and technical discussion
-  - 13:30 Minicourse Michel Lavrauw: lecture 1
+  - 10:30 Minicourse Michel Lavrauw: lecture 1
   - 11:30 Minicourse Michel Lavrauw: exercises 1 / Parallel: working session for developers
   - 12:30 *Lunch break*
   - 13:30 Minicourse Michel Lavrauw: lecture 2
@@ -102,7 +102,7 @@ The schedule is subject to further changes.
 - **Friday**
 
   - 10:00 Stand up and technical discussion
-  - 13:30 Minicourse Michel Lavrauw: lecture 3
+  - 10:30 Minicourse Michel Lavrauw: lecture 3
   - 11:30 Minicourse Michel Lavrauw: exercises 3 / Parallel: working session for developers
   - 12:30 *Lunch break*
   - 13:30 working session for developers
