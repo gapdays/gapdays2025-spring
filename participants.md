@@ -29,6 +29,9 @@ participants:
   - {name: Karmele Garatea Zaballa, affiliation: "UPV/EHU"}
   - {name: Lukas Schnelle, affiliation: "SLA/ART RWTH Aachen"}
   - {name: Francesca Cavalieri, affiliation: "University of Padova"}
+  - {name: Seyyed Ali Mohammadiyeh, affiliation: "Department of Pure Mathematics, Faculty of Mathematical Sciences, University of Kashan, Kashan,Iran"}
+  - {name: Pushpendra Singh, affiliation: "Indian Institute of Technology Jodhpur, India"}
+  - {name: Sam Tertooy, affiliation: "KU Leuven, Kulak Kortrijk Campus"}
 ---
 
 <ol>{% assign participants = page.participants | sort: "name" %}
