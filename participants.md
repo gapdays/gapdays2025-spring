@@ -34,6 +34,7 @@ participants:
   - {name: Sam Tertooy, affiliation: "KU Leuven, Kulak Kortrijk Campus"}
   - {name: István Szöllősi, affiliation: "Babeș-Bolyai University, Cluj-Napoca (Romania)"}
   - {name: Réka András, affiliation: "Robert Bosch SRL, Cluj-Napoca (Romania)"}
+  - {name: Mevlüde Alizade, affiliation: "Ankara University"}
 ---
 
 <ol>{% assign participants = page.participants | sort: "name" %}
