@@ -32,6 +32,8 @@ participants:
   - {name: Seyyed Ali Mohammadiyeh, affiliation: "Department of Pure Mathematics, Faculty of Mathematical Sciences, University of Kashan, Kashan,Iran"}
   - {name: Pushpendra Singh, affiliation: "Indian Institute of Technology Jodhpur, India"}
   - {name: Sam Tertooy, affiliation: "KU Leuven, Kulak Kortrijk Campus"}
+  - {name: István Szöllősi, affiliation: "Babeș-Bolyai University, Cluj-Napoca (Romania)"}
+  - {name: Réka András, affiliation: "Robert Bosch SRL, Cluj-Napoca (Romania)"}
 ---
 
 <ol>{% assign participants = page.participants | sort: "name" %}
