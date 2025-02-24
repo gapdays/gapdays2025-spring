@@ -35,6 +35,11 @@ participants:
   - {name: István Szöllősi, affiliation: "Babeș-Bolyai University, Cluj-Napoca (Romania)"}
   - {name: Réka András, affiliation: "Robert Bosch SRL, Cluj-Napoca (Romania)"}
   - {name: Mevlüde Alizade, affiliation: "Ankara University"}
+  - {name: Lara Deraedt, affiliation: "Ghent University"}
+  - {name: Rhys Evans, affiliation: "IMFM"}
+  - {name: Jim Wittebol, affiliation: "Vrije Universiteit Brussel"}
+  - {name: Maxime Deryck, affiliation: "Ghent University"}
+  - {name: Lander Meyts, affiliation: "Ghent University"}
 ---
 
 <ol>{% assign participants = page.participants | sort: "name" %}
