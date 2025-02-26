@@ -40,6 +40,7 @@ participants:
   - {name: Jim Wittebol, affiliation: "Vrije Universiteit Brussel"}
   - {name: Maxime Deryck, affiliation: "Ghent University"}
   - {name: Lander Meyts, affiliation: "Ghent University"}
+  - {name: Krisztián Nagy, affiliation: "Bolyai Institute University of Szeged"}
 ---
 
 <ol>{% assign participants = page.participants | sort: "name" %}
