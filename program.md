@@ -14,7 +14,7 @@ But we are looking for more talks, so please <a href="mailto:{{site.email}}">con
 
 ## Minicourses
 
-- **Minicourse 1 by Illaria Colazzo**
+- **Minicourse 1 by Ilaria Colazzo**
 
 1. Introduction to GAP: Basics of Computation
 Topics: Basic arithmetic, programming, linear algebra, and an introduction to group theory concepts.
