@@ -38,6 +38,7 @@ participants:
   - {name: Lara Deraedt, affiliation: "Ghent University"}
   - {name: Rhys Evans, affiliation: "IMFM"}
   - {name: Jim Wittebol, affiliation: "Vrije Universiteit Brussel"}
+  - {name: Kevin Piterman, affiliation: "Vrije Universiteit Brussel"}
   - {name: Maxime Deryck, affiliation: "Ghent University"}
   - {name: Lander Meyts, affiliation: "Ghent University"}
   - {name: Krisztián Nagy, affiliation: "Bolyai Institute University of Szeged"}
