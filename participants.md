@@ -41,6 +41,7 @@ participants:
   - {name: Maxime Deryck, affiliation: "Ghent University"}
   - {name: Lander Meyts, affiliation: "Ghent University"}
   - {name: Krisztián Nagy, affiliation: "Bolyai Institute University of Szeged"}
+  - {name: Rafał Lutowski, affiliation: "University of Gdańsk"}
 ---
 
 <ol>{% assign participants = page.participants | sort: "name" %}
