@@ -43,9 +43,10 @@ participants:
   - {name: Lander Meyts, affiliation: "Ghent University"}
   - {name: Krisztián Nagy, affiliation: "Bolyai Institute University of Szeged"}
   - {name: Rafał Lutowski, affiliation: "University of Gdańsk"}
-  - {name: Michael Youngi, affiliation: "University of St Andrews"}
+  - {name: Michael Young, affiliation: "University of St Andrews"}
   - {name: Komma Patali, affiliation: "Technische Universität Braunschweig"}
   - {name: Arne Van Antwerpen, affiliation: "Ghent University"}
+  - {name: Joe Edwards, affiliation: "University of St Andrews"}
 
 ---
 
