@@ -47,6 +47,8 @@ participants:
   - {name: Komma Patali, affiliation: "Technische Universität Braunschweig"}
   - {name: Arne Van Antwerpen, affiliation: "Ghent University"}
   - {name: Joe Edwards, affiliation: "University of St Andrews"}
+  - {name: Kobe Bleuzé, affiliation: "Ghent University"}
+  - {name: Charlotte Roelants, affiliation: "Vrije Universiteit Brussel"}
 
 ---
 
