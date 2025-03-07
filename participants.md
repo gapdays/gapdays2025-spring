@@ -49,6 +49,7 @@ participants:
   - {name: Joe Edwards, affiliation: "University of St Andrews"}
   - {name: Kobe Bleuzé, affiliation: "Ghent University"}
   - {name: Charlotte Roelants, affiliation: "Vrije Universiteit Brussel"}
+  - {name: Boris Fransen, affiliation: "University of Antwerp"}
 
 ---
 
