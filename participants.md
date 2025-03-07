@@ -50,6 +50,7 @@ participants:
   - {name: Kobe Bleuzé, affiliation: "Ghent University"}
   - {name: Charlotte Roelants, affiliation: "Vrije Universiteit Brussel"}
   - {name: Boris Fransen, affiliation: "University of Antwerp"}
+  - {name: Peter Birkner, affiliation: "Saarland University of Applied Sciences"}
 
 ---
 
