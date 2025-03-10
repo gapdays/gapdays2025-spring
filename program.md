@@ -73,6 +73,8 @@ The schedule is subject to further changes.
   - 14:30 Minicourse Bettina Eick: exercises 1 / Parallel: working session for developers
   - 15:30 *coffee break*
   - 16:00 Contributed Talks
+    - 16:00 Talk: *"Measuring sizes of certain large sets precisely and efficiently"*, Pavol Kollár
+    - 16:30 Talk: *"Enumerating small primitive quandles using GAP", Pushpendra Singh
   - 17:00 Stand-up Meeting: Results from work sessions
 
 - **Wednesday**
@@ -85,7 +87,8 @@ The schedule is subject to further changes.
   - 14:30 Minicourse Bettina Eick: exercises 3 / Parallel: working session for developers
   - 15:30 *coffee break*
   - 16:00 Contributed Talks
-    - 16:00 Talk: *"Measuring sizes of certain large sets precisely and efficiently"*, Pavol Kollár
+    - 16:00 Talk: *"Next steps for the package manager"*, Michael Young
+    - 16:30 Talk: *"TBA"*, Seyyed Ali Mohammadiyeh
   - 17:00 Stand-up Meeting: Results from work sessions
 
 - **Thursday**
