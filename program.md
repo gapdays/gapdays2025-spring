@@ -74,7 +74,8 @@ The schedule is subject to further changes.
   - 15:30 *coffee break*
   - 16:00 Contributed Talks
     - 16:00 Talk: *"Measuring sizes of certain large sets precisely and efficiently"*, Pavol Kollár
-    - 16:30 Talk: *"Enumerating small primitive quandles using GAP", Pushpendra Singh
+    - 16:20 Talk: *"Enumerating small primitive quandles using GAP"*, Pushpendra Singh
+    - 16:40 Talk: *"smallantimagmas love digraphs package"*, Kamil Zabielski
   - 17:00 Stand-up Meeting: Results from work sessions
 
 - **Wednesday**
@@ -88,7 +89,7 @@ The schedule is subject to further changes.
   - 15:30 *coffee break*
   - 16:00 Contributed Talks
     - 16:00 Talk: *"Next steps for the package manager"*, Michael Young
-    - 16:30 Talk: *"TBA"*, Seyyed Ali Mohammadiyeh
+    - 16:20 Talk: *"TBA"*, Seyyed Ali Mohammadiyeh
   - 17:00 Stand-up Meeting: Results from work sessions
 
 - **Thursday**
