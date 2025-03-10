@@ -85,6 +85,7 @@ The schedule is subject to further changes.
   - 14:30 Minicourse Bettina Eick: exercises 3 / Parallel: working session for developers
   - 15:30 *coffee break*
   - 16:00 Contributed Talks
+    - 16:00 Talk: *"Measuring sizes of certain large sets precisely and efficiently"*, Pavol Kollár
   - 17:00 Stand-up Meeting: Results from work sessions
 
 - **Thursday**
