@@ -75,7 +75,7 @@ The schedule is subject to further changes.
   - 16:00 Contributed Talks
     - 16:00 Talk: *"Measuring sizes of certain large sets precisely and efficiently"*, Pavol Kollár
     - 16:20 Talk: *"Enumerating small primitive quandles using GAP"*, Pushpendra Singh
-    - 16:40 Talk: *"smallantimagmas love digraphs package"*, Kamil Zabielski
+    - 16:40 Talk: *"smallantimagmas love digraphs package"* (Kamil Zabielski)([abstract]({{ site.baseurl }}/abstracts/zabielski))
   - 17:00 Stand-up Meeting: Results from work sessions
 
 - **Wednesday**
