@@ -1,9 +1,9 @@
 ---
 layout: default
-permalink: /abstracts/schnelle
+permalink: /abstracts/zabielski
 ---
 
-## Kamail Zabielski
+## Kamil Zabielski
 
 ### smallantimagmas love digraphs package
 
