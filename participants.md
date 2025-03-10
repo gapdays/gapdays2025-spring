@@ -52,6 +52,9 @@ participants:
   - {name: Boris Fransen, affiliation: "University of Antwerp"}
   - {name: Peter Birkner, affiliation: "Saarland University of Applied Sciences"}
   - {name: Thomas Deneve, affiliation: "Ghent University"}
+  - {name: Joseph Ward, affiliation: "University of St Andrews"}
+  - {name: Sarah Aoudia, affiliation: "University of St Andrews"}
+
 ---
 
 <ol>{% assign participants = page.participants | sort: "name" %}
