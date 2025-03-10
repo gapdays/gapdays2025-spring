@@ -51,7 +51,7 @@ participants:
   - {name: Charlotte Roelants, affiliation: "Vrije Universiteit Brussel"}
   - {name: Boris Fransen, affiliation: "University of Antwerp"}
   - {name: Peter Birkner, affiliation: "Saarland University of Applied Sciences"}
-
+  - {name: Thomas Deneve, affiliation: "Ghent University"}
 ---
 
 <ol>{% assign participants = page.participants | sort: "name" %}
