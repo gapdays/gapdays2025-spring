@@ -13,4 +13,4 @@ Please note that this list will be updated on the go, as we find more things tha
   If you do not have access to this slack you can [email us](mailto:{{site.email}}) and we will invite you.
   All registered participants will be sent an invite link.
 
-- You should have a recent version of GAP installed (ideally 4.13.x or a development version built from the master branch)
+- You should have a recent version of GAP installed (ideally 4.14.x or a development version built from the master branch)

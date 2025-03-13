@@ -32,7 +32,7 @@ in the Brussels' region is Etterbeek, which is located almost next to the main c
 per hour from Brussels Airport to Etterbeek (IC to Namur/Dinant and S19 to Brussel-Schuman/Charleroi Central). During the weekend, there is only the S19 service (now
 heading to Nijvel/Nivelles). However, there are 4-6 trains per hour from Brussels Airport to the train station Brussel Noord, where you can change on a train to Etterbeek. 
 
-More infomration can be found on [how to reach the main campus of VUB](https://www.vub.be/en/about-vub/faculties-institutes-and-campuses/our-campuses/vub-main-campus-brussels/directions). 
+More information can be found on [how to reach the main campus of VUB](https://www.vub.be/en/about-vub/faculties-institutes-and-campuses/our-campuses/vub-main-campus-brussels/directions). 
 
 ## Accommodation
 
