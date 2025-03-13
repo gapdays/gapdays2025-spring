@@ -55,7 +55,9 @@ participants:
   - {name: Joseph Ward, affiliation: "University of St Andrews, Scotland"}
   - {name: Sarah Aoudia, affiliation: "University of St Andrews, Scotland"}
   - {name: Mun See Chang, affiliation: "University of St Andrews"}
---
+
+---
+
 <ol>{% assign participants = page.participants | sort: "name" %}
 {% for p in participants %}
   <li>
