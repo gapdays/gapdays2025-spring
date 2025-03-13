@@ -47,7 +47,8 @@ participants:
   - {name: Komma Patali, affiliation: "Technische Universität Braunschweig"}
   - {name: Arne Van Antwerpen, affiliation: "Ghent University"}
   - {name: Joe Edwards, affiliation: "University of St Andrews"}
-
+  - {name: Mun See Chang, affiliation: "University of St Andrews"}
+  - {name: Sarah Aoudia, affiliation: "University of St Andrews"}
 ---
 
 <ol>{% assign participants = page.participants | sort: "name" %}
