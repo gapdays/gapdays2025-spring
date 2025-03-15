@@ -56,6 +56,7 @@ participants:
   - {name: Sarah Aoudia, affiliation: "University of St Andrews, Scotland"}
   - {name: Mun See Chang, affiliation: "University of St Andrews"}
   - {name: Silvia Properzi, affiliation: "Vrije Universiteit Brussel, Belgium"}
+  - {name: Reinis Cirpons, affiliation: "University of St Andrews, Scotland"}
 
 ---
 
