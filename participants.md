@@ -57,6 +57,7 @@ participants:
   - {name: Mun See Chang, affiliation: "University of St Andrews"}
   - {name: Silvia Properzi, affiliation: "Vrije Universiteit Brussel, Belgium"}
   - {name: Reinis Cirpons, affiliation: "University of St Andrews, Scotland"}
+  - {name: Heleen Broodcoorens, affiliation: "Vrije Universiteit Brussel, Belgium"}
 
 ---
 
