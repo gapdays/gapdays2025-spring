@@ -58,6 +58,8 @@ participants:
   - {name: Silvia Properzi, affiliation: "Vrije Universiteit Brussel, Belgium"}
   - {name: Reinis Cirpons, affiliation: "University of St Andrews, Scotland"}
   - {name: Heleen Broodcoorens, affiliation: "Vrije Universiteit Brussel, Belgium"}
+  - {name: Leen Demuys, affiliation: "Vrije Universiteit Brussel, Belgium"}
+  - {name: Magdalena Wiertel, affiliation: "Vrije Universiteit Brussel, Belgium"}
 
 ---
 
