@@ -60,7 +60,8 @@ participants:
   - {name: Heleen Broodcoorens, affiliation: "Vrije Universiteit Brussel, Belgium"}
   - {name: Leen Demuys, affiliation: "Vrije Universiteit Brussel, Belgium"}
   - {name: Magdalena Wiertel, affiliation: "Vrije Universiteit Brussel, Belgium"}
-
+  - {name: Davide Ferri, affiliation: "Vrije Universiteit Brussel, Belgium"}
+  - {name: Andrew Darlington, affiliation: "Vrije Universiteit Brussel, Belgium"}
 ---
 
 <ol>{% assign participants = page.participants | sort: "name" %}
