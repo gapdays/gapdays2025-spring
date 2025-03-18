@@ -62,6 +62,8 @@ participants:
   - {name: Magdalena Wiertel, affiliation: "Vrije Universiteit Brussel, Belgium"}
   - {name: Davide Ferri, affiliation: "Vrije Universiteit Brussel, Belgium"}
   - {name: Andrew Darlington, affiliation: "Vrije Universiteit Brussel, Belgium"}
+  - {name: Jozefien D'haeseleer, affiliation: "Ghent University, Belgium"}
+
 ---
 
 <ol>{% assign participants = page.participants | sort: "name" %}
