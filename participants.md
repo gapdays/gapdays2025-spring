@@ -64,6 +64,7 @@ participants:
   - {name: Andrew Darlington, affiliation: "Vrije Universiteit Brussel, Belgium"}
   - {name: Jozefien D'haeseleer, affiliation: "Ghent University, Belgium"}
   - {name: Manuel Delgado, affiliation: "University of Porto, Portugal"}
+  - {name: James Mitchell, affiliation: "University of St Andrews"}
 
 ---
 
