@@ -66,7 +66,7 @@ participants:
   - {name: Manuel Delgado, affiliation: "University of Porto, Portugal"}
   - {name: James Mitchell, affiliation: "University of St Andrews"}
   - {name: Russ Woodroofe, affiliation: "University of Primorska, Slovenia"}
-
+  - {name: Guillaume Yziquel, affiliation: "VIZYON FRANCE (Grenbole)"}
 ---
 
 <ol>{% assign participants = page.participants | sort: "name" %}
