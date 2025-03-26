@@ -68,6 +68,7 @@ participants:
   - {name: Russ Woodroofe, affiliation: "University of Primorska, Slovenia"}
   - {name: Guillaume Yziquel, affiliation: "VIZYON FRANCE (Grenbole)"}
   - {name: Daimy Van Caudenberg, affiliation: "KU Leuven"}
+  - {name: Vlad Taranchuk, affiliation: "Ghent University, Belgium"}
 ---
 
 <ol>{% assign participants = page.participants | sort: "name" %}
