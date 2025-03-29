@@ -56,7 +56,7 @@ The schedule can be found on [the program page]({{ site.baseurl }}/program).
 {{site.title}} is organised by
 
 * [Philippe Cara](https://wids.research.vub.be/nl/philippe-cara)
-* [Jan De Beule](https://wids.research.vub.be/en/jan-de-beule)
+* [Jan De Beule](https://researchportal.vub.be/en/persons/jan-de-beule)
 * [Leandro Vendramin](https://leandrovendramin.org)
 
 ## Registration
