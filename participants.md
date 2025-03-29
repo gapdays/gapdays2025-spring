@@ -30,7 +30,6 @@ participants:
   - {name: Lukas Schnelle, affiliation: "RWTH Aachen, Germany"}
   - {name: Francesca Cavalieri, affiliation: "University of Padova, Italy"}
   - {name: Seyyed Ali Mohammadiyeh, affiliation: "Department of Pure Mathematics, Faculty of Mathematical Sciences, University of Kashan, Iran"}
-  - {name: Pushpendra Singh, affiliation: "Indian Institute of Technology Jodhpur, India"}
   - {name: Sam Tertooy, affiliation: "KU Leuven, Kulak Kortrijk Campus, Belgium"}
   - {name: István Szöllősi, affiliation: "Babeș-Bolyai University, Cluj-Napoca, Romania"}
   - {name: Réka András, affiliation: "Robert Bosch SRL, Cluj-Napoca, Romania"}
@@ -69,6 +68,7 @@ participants:
   - {name: Guillaume Yziquel, affiliation: "VIZYON FRANCE (Grenbole)"}
   - {name: Daimy Van Caudenberg, affiliation: "KU Leuven"}
   - {name: Vlad Taranchuk, affiliation: "Ghent University, Belgium"}
+  - {name: Milan Morreel, affiliation: "Ghent University, Belgium"}
 ---
 
 <ol>{% assign participants = page.participants | sort: "name" %}
