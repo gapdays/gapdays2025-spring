@@ -52,7 +52,7 @@ and two hours of exercises in parallel with working sessions.
 The schedule is subject to further changes. 
 - **Monday**
 
-  - 9:45 Morning coffee, Welcome and opening
+  - 9:30 Registration, Morning coffee, Welcome and opening
   - 10:00 Stand up and technical discussion
   - 10:30 Minicourse Ilaria Colazzo: lecture 1
   - 11:30 Minicourse Ilaria Colazzo: exercises 1 / Parallel: working session for developers
