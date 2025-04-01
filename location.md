@@ -51,8 +51,7 @@ TODO: recommend some restaurants
 ## Virtual locations
 
 In addition, we might use:
-- The [GAP Slack rooms](https://gap-system.slack.com) for discussions -- requires
-  an invitation to join; we will send those to all registered participants.
+- The [GAP Slack rooms](https://gap-system.org/slack) for discussionss.
 - [HackMD](https://hackmd.io) for collaborative writing / editing
 - [GitHub](https://github.com) for editing the GAP code/website/package distribution/etc.
 
