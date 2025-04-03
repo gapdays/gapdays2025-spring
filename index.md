@@ -59,6 +59,11 @@ The schedule can be found on [the program page]({{ site.baseurl }}/program).
 * [Jan De Beule](https://wids.research.vub.be/en/jan-de-beule)
 * [Leandro Vendramin](https://leandrovendramin.org)
 
+All lectures and activities are organized in the Department of Mathematics and Data Science. The department is located in Building G, sixth floor. 
+The main lecture room is room 6G.52. This room is reserved rom 8:30 -- 17:30 every day. The coffee breaks will be organized in the seminar room of the department, this is room 6G.60. 
+We will open the registration around 9:30 in room 6G.60.
+
+
 ## Registration
 
 {{site.title}} will take place at {{ site.location }}.
