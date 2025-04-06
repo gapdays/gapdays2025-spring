@@ -20,7 +20,7 @@ participants:
   - {name: Kamil Zabielski, affiliation: "Bialystok University of Technology, Poland"}
   - {name: Nour Alnajjarine, affiliation: "University of Rijeka, Croatia"}
   - {name: Tobias Ocula, affiliation: "Vrije Universiteit Brussel, Belgium"}
-  - {name: Rasmus Hvass Hansen, affiliation: "Danish Research Centre for Magnetic Resonance (DRCMR), Danmark"}
+  - {name: Rasmus Hvass Hansen, affiliation: "Danish Research Centre for Magnetic Resonance (DRCMR), Denmark"}
   - {name: Pavol Kollár, affiliation: "Comenius University in Bratislava, Slovakia"}
   - {name: Pieter-Jan Meuris, affiliation: "Vrije Universiteit Brussel, Belgium"}
   - {name: Óscar Fernández Ayala, affiliation: "Technische Universität Braunschweig, Germany"}
