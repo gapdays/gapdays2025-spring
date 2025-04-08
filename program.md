@@ -54,10 +54,10 @@ The schedule is subject to further changes.
 
   - 9:30 Registration, Morning coffee, Welcome and opening
   - 10:00 Stand up and technical discussion
-  - 10:30 Minicourse Ilaria Colazzo: [lecture 1](https://www.ilariacolazzo.info/gap/slides/)
+  - 10:30 Minicourse Ilaria Colazzo: [lecture 1](https://www.ilariacolazzo.info/gap/slides/lecture1.html)
   - 11:30 Minicourse Ilaria Colazzo: exercises 1 [sheet 1](https://www.ilariacolazzo.info/gap/tutorials/sheet1/) / Parallel: working session for developers
   - 12:30 *Lunch break*
-  - 13:30 Minicourse Ilaria Colazzo: lecture 2
+  - 13:30 Minicourse Ilaria Colazzo: [lecture 2](https://www.ilariacolazzo.info/gap/slides/lecture2.html)
   - 14:30 Minicourse Ilaria Colazzo: exercises 2 [sheet 2](https://www.ilariacolazzo.info/gap/tutorials/sheet2/) / Parallel: working session for developers
   - 15:30 *coffee break*
   - 16:00 Discussion
@@ -66,8 +66,8 @@ The schedule is subject to further changes.
 - **Tuesday**
 
   - 10:00 Stand up and technical discussion
-  - 10:30 Minicourse Ilaria Colazzo: lecture 3
-  - 11:30 Minicourse Ilaria Colazzo: exercises 3 / Parallel: working session for developers
+  - 10:30 Minicourse Ilaria Colazzo: [lecture 3](https://www.ilariacolazzo.info/gap/slides/lecture2.html)
+  - 11:30 Minicourse Ilaria Colazzo: exercises 3 [sheet 3](https://www.ilariacolazzo.info/gap/tutorials/sheet3/) / Parallel: working session for developers
   - 12:30 *Lunch break*
   - 13:30 Minicourse Bettina Eick: lecture 1
   - 14:30 Minicourse Bettina Eick: exercises 1 / Parallel: working session for developers
