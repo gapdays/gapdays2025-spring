@@ -66,7 +66,7 @@ The schedule is subject to further changes.
 - **Tuesday**
 
   - 10:00 Stand up and technical discussion
-  - 10:30 Minicourse Ilaria Colazzo: [lecture 3](https://www.ilariacolazzo.info/gap/slides/lecture2.html)
+  - 10:30 Minicourse Ilaria Colazzo: [lecture 3](https://www.ilariacolazzo.info/gap/slides/lecture3.html)
   - 11:30 Minicourse Ilaria Colazzo: exercises 3 [sheet 3](https://www.ilariacolazzo.info/gap/tutorials/sheet3/) / Parallel: working session for developers
   - 12:30 *Lunch break*
   - 13:30 Minicourse Bettina Eick: lecture 1
