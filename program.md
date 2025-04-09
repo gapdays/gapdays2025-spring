@@ -80,7 +80,7 @@ The schedule is subject to further changes.
 - **Wednesday**
 
   - 10:00 Stand up and technical discussion
-  - 10:30 Minicourse Bettina Eick: lecture 2
+  - 10:30 Minicourse Bettina Eick: [lecture 2](bettina2.pdf)
   - 11:30 Minicourse Bettina Eick: exercises 2 / Parallel: working session for developers
   - 12:30 *Lunch break*
   - 13:30 Minicourse Bettina Eick: lecture 3
