@@ -84,8 +84,8 @@ The schedule is subject to further changes.
   - 11:30 Minicourse Bettina Eick: exercises 2 / Parallel: working session for developers
       - also parallel: "Developing a GAP package" (room G.6.16A down the hall)
   - 12:30 *Lunch break*
-  - 13:30 Minicourse Bettina Eick: lecture 3
-  - 14:30 Minicourse Bettina Eick: exercises 3 / Parallel: working session for developers
+  - 13:30 Minicourse Bettina Eick: [lecture 3](bettina3.pdf)
+  - 14:30 Minicourse Bettina Eick: [exercises 3](bettinaexercise3.pdf) / Parallel: working session for developers
   - 15:30 *coffee break*
   - 16:00 Contributed Talks
     - 16:00 Talk: *"Next steps for the package manager"* (Michael Young)
