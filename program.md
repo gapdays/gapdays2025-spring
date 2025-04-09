@@ -95,13 +95,13 @@ The schedule is subject to further changes.
 
   - 10:00 Stand up and technical discussion
   - 10:30 Minicourse Michel Lavrauw: lecture 1
-  - 11:30 Minicourse Michel Lavrauw: exercises 1 / Parallel: working session for developers
-  - 12:30 *Lunch break*
-  - 13:30 Minicourse Michel Lavrauw: lecture 2
-  - 14:30 Minicourse Michel Lavrauw: exercises 2 / Parallel: working session for developers
-  - 15:30 *coffee break*
-  - 16:00 Discussion
-  - 17:00 Stand-up Meeting: Results from work sessions
+  - 11:30 Conference Photo
+  - 12:00 Minicourse Michel Lavrauw: exercises 1 / Parallel: working session for developers
+  - 13:00 *Lunch break*
+  - 14:00 Minicourse Michel Lavrauw: lecture 2
+  - 15:00 Minicourse Michel Lavrauw: exercises 2 / Parallel: working session for developers
+  - 16:00 *coffee break*
+  - 16:30 Stand-up Meeting: Results from work sessions
 
 - **Friday**
 
