@@ -103,7 +103,7 @@ The schedule is subject to further changes.
   - 14:30 Minicourse Michel Lavrauw: exercises 2 / Parallel: working session for developers
   - 15:30 *coffee break*
   - 16:00 Announcing GAP Logo contest winner & next GAP Days
-  - 16:20 Talk: "The OSCAR computer algebra system" (Thomas Breuer)
+  - 16:20 Talk: "GAP inside the OSCAR computer algebra system" (Thomas Breuer)
   - 17:00 Stand-up Meeting: Results from work sessions
 
 - **Friday**
