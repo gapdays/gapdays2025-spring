@@ -89,7 +89,7 @@ The schedule is subject to further changes.
   - 15:30 *coffee break*
   - 16:00 Contributed Talks
     - 16:00 Talk: *"Next steps for the package manager"* (Michael Young)
-    - 16:20 Talk: *"TBA"* (Seyyed Ali Mohammadiyeh)
+    - 16:20 Talk: *"Latin Squares Meet Group Theory: Tools and Insights in GAP - LatinSquare GAP Package"* (Seyyed Ali Mohammadiyeh)
   - 17:00 Stand-up Meeting: Results from work sessions
 
 - **Thursday**
