@@ -11,9 +11,11 @@ permalink: /abstracts/seyyed-ali-mohammadiyeh
 
 This talk introduces Latin squares—structured square arrays with unique symbols per row and column—and explores their mathematical significance and applications.
 
+[View Slides PDF](https://github.com/BaseMax/gap-days-2025/blob/main/gap-days-2025.pdf)
+
 #### Key Topics:
 
-**Definition:** An n × n grid where each symbol appears once per row and column.
+**Definition:** An `n × n` grid where each symbol appears once per row and column.
 
 **Applications:** Used in statistics, cryptography, game design (e.g., Sudoku), and combinatorics.
 
@@ -33,4 +35,4 @@ This talk introduces Latin squares—structured square arrays with unique symbol
 
 **Sudoku:** Described as a Latin square with added regional constraints.
 
-Contact: alim@kashanu.ac.ir, max@std.kashanu.ac.ir, maxbasecode@gmail.com
+Contact: alim@kashanu.ac.ir, max@std.kashanu.ac.ir, or my personal email maxbasecode@gmail.com
