@@ -82,6 +82,7 @@ The schedule is subject to further changes.
   - 10:00 Stand up and technical discussion
   - 10:30 Minicourse Bettina Eick: lecture 2
   - 11:30 Minicourse Bettina Eick: exercises 2 / Parallel: working session for developers
+      - also parallel: "Developing a GAP package" (room G.6.16A down the hall)
   - 12:30 *Lunch break*
   - 13:30 Minicourse Bettina Eick: lecture 3
   - 14:30 Minicourse Bettina Eick: exercises 3 / Parallel: working session for developers
