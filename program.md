@@ -89,7 +89,7 @@ The schedule is subject to further changes.
   - 15:30 *coffee break*
   - 16:00 Contributed Talks
     - 16:00 Talk: *"Next steps for the package manager"* (Michael Young)
-    - 16:20 Talk: *"Latin Squares Meet Group Theory: Tools and Insights in GAP - LatinSquare GAP Package"* (Seyyed Ali Mohammadiyeh)([abstract]({{ site.baseurl }}/abstracts/seyyed-ali-mohammadiyeh))
+    - 16:20 Talk: *"Latin Squares Meet Group Theory: Tools and Insights in GAP - LatinSquare GAP Package"* (Seyyed Ali Mohammadiyeh) ([abstract]({{ site.baseurl }}/abstracts/seyyed-ali-mohammadiyeh)) ([PDF Slides](https://github.com/BaseMax/gap-days-2025/blob/main/gap-days-2025.pdf)) ([GAP package](https://github.com/BaseMax/LatinSquareGAP))
   - 17:00 Stand-up Meeting: Results from work sessions
 
 - **Thursday**
