@@ -99,8 +99,8 @@ The schedule is subject to further changes.
   - 11:15 Conference Photo
   - 11:30 Minicourse Michel Lavrauw: [exercises 1](https://mlavrauw.github.io/1_exercises_ML.pdf) / Parallel: working session for developers
   - 12:30 *Lunch break*
-  - 13:30 Minicourse Michel Lavrauw: lecture 2
-  - 14:30 Minicourse Michel Lavrauw: exercises 2 / Parallel: working session for developers
+  - 13:30 Minicourse Michel Lavrauw: [lecture 2](https://mlavrauw.github.io/2_lecture_ML.pdf)
+  - 14:30 Minicourse Michel Lavrauw: [exercises 2](https://mlavrauw.github.io/2_exercises_ML.pdf) / Parallel: working session for developers
   - 15:30 *coffee break*
   - 16:00 Announcing GAP Logo contest winner & next GAP Days
   - 16:20 Talk: "GAP inside the OSCAR computer algebra system" (Thomas Breuer)
