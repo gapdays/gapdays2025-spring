@@ -16,7 +16,6 @@ participants:
   - {name: Thomas Breuer, affiliation: "RWTH Aachen, Germany"}
   - {name: Meike Weiß, affiliation: "RWTH Aachen, Germany"}
   - {name: Ruth Hoffmann, affiliation: "University of St Andrews, Scotland"}
-  - {name: Ahmed Khammash, affiliation: "Umm al-Qura University, Saudi Arabia"}
   - {name: Kamil Zabielski, affiliation: "Bialystok University of Technology, Poland"}
   - {name: Nour Alnajjarine, affiliation: "University of Rijeka, Croatia"}
   - {name: Tobias Ocula, affiliation: "Vrije Universiteit Brussel, Belgium"}
