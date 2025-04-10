@@ -70,7 +70,7 @@ The schedule is subject to further changes.
   - 11:30 Minicourse Ilaria Colazzo: exercises 3 [sheet 3](https://www.ilariacolazzo.info/gap/tutorials/sheet3/) / Parallel: working session for developers
   - 12:30 *Lunch break*
   - 13:30 Minicourse Bettina Eick: [lecture 1](bettina.pdf)
-  - 14:30 Minicourse Bettina Eick: exercises 1 / Parallel: working session for developers
+  - 14:30 Minicourse Bettina Eick: [exercises 1](bettinaexercise1.pdf)  / Parallel: working session for developers
   - 15:30 *coffee break*
   - 16:00 Contributed Talks
     - 16:00 Talk: *"Measuring sizes of certain large sets precisely and efficiently"* (Pavol Kollár)
@@ -95,9 +95,9 @@ The schedule is subject to further changes.
 - **Thursday**
 
   - 10:00 Stand up and technical discussion
-  - 10:15 Minicourse Michel Lavrauw: lecture 1
+  - 10:15 Minicourse Michel Lavrauw: [lecture 1](https://mlavrauw.github.io/1_lecture_ML.pdf) [gapcode](https://mlavrauw.github.io/1_gapcode_ML.g)
   - 11:15 Conference Photo
-  - 11:30 Minicourse Michel Lavrauw: exercises 1 / Parallel: working session for developers
+  - 11:30 Minicourse Michel Lavrauw: [exercises 1](https://mlavrauw.github.io/1_exercises_ML.pdf) / Parallel: working session for developers
   - 12:30 *Lunch break*
   - 13:30 Minicourse Michel Lavrauw: lecture 2
   - 14:30 Minicourse Michel Lavrauw: exercises 2 / Parallel: working session for developers
