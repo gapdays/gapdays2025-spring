@@ -68,7 +68,11 @@ For registration use the form on [the registration page]({{ site.baseurl }}/regi
 
 ## Sponsors
 
-This workshop is supported by the Research Foundation Flanders (Belgium) (FWO) and the Vrije Universiteit Brussel (VUB).
+This workshop is supported by the Scientific Research Network Graphs, Association schemes and Geometries: structures, algorithms and computation
+from the Research Foundation Flanders (Belgium) (FWO), and the doctoral school of the Vrije Universiteit Brussel (VUB).
+
+[<img src="{{ site.baseurl }}/public/fwo.png" />]({{ site.baseurl }}/public/fwo.png)
+
 
 ## <a name="contact"></a> Contact
 
