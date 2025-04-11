@@ -71,7 +71,8 @@ For registration use the form on [the registration page]({{ site.baseurl }}/regi
 This workshop is supported by the Scientific Research Network Graphs, Association schemes and Geometries: structures, algorithms and computation
 from the Research Foundation Flanders (Belgium) (FWO), and the doctoral school of the Vrije Universiteit Brussel (VUB).
 
-[<img src="{{ site.baseurl }}/public/fwo.png" />](https://www.fwo.be)
+[<img src="{{ site.baseurl }}/public/fwo.png" />](https://www.fwo.be)[<img src="{{ site.baseurl }}/public/nse.jpg" />](https://www.vub.be)
+
 
 
 ## <a name="contact"></a> Contact
