@@ -95,7 +95,7 @@ The schedule is subject to further changes.
 - **Thursday**
 
   - 10:00 Stand up and technical discussion
-  - 10:15 Minicourse Michel Lavrauw: [lecture 1](https://mlavrauw.github.io/https://mlavrauw.github.io/GapDaysSpring2025/1_lecture_ML.pdf) [gapcode](https://mlavrauw.github.io/GapDaysSpring2025/1_gapcode_ML.g)
+  - 10:15 Minicourse Michel Lavrauw: [lecture 1](https://mlavrauw.github.io/GapDaysSpring2025/1_lecture_ML.pdf) [gapcode](https://mlavrauw.github.io/GapDaysSpring2025/1_gapcode_ML.g)
   - 11:15 Conference Photo
   - 11:30 Minicourse Michel Lavrauw: [exercises 1](https://mlavrauw.github.io/GapDaysSpring2025/1_exercises_ML.pdf) / Parallel: working session for developers
   - 12:30 *Lunch break*
