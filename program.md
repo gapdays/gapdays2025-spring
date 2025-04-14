@@ -95,12 +95,12 @@ The schedule is subject to further changes.
 - **Thursday**
 
   - 10:00 Stand up and technical discussion
-  - 10:15 Minicourse Michel Lavrauw: [lecture 1](https://mlavrauw.github.io/1_lecture_ML.pdf) [gapcode](https://mlavrauw.github.io/1_gapcode_ML.g)
+  - 10:15 Minicourse Michel Lavrauw: [lecture 1](https://mlavrauw.github.io/https://mlavrauw.github.io/GapDaysSpring2025/1_lecture_ML.pdf) [gapcode](https://mlavrauw.github.io/GapDaysSpring2025/1_gapcode_ML.g)
   - 11:15 Conference Photo
-  - 11:30 Minicourse Michel Lavrauw: [exercises 1](https://mlavrauw.github.io/1_exercises_ML.pdf) / Parallel: working session for developers
+  - 11:30 Minicourse Michel Lavrauw: [exercises 1](https://mlavrauw.github.io/GapDaysSpring2025/1_exercises_ML.pdf) / Parallel: working session for developers
   - 12:30 *Lunch break*
-  - 13:30 Minicourse Michel Lavrauw: [lecture 2](https://mlavrauw.github.io/2_lecture_ML.pdf)
-  - 14:30 Minicourse Michel Lavrauw: [exercises 2](https://mlavrauw.github.io/2_exercises_ML.pdf) / Parallel: working session for developers
+  - 13:30 Minicourse Michel Lavrauw: [lecture 2](https://mlavrauw.github.io/GapDaysSpring2025/2_lecture_ML.pdf)
+  - 14:30 Minicourse Michel Lavrauw: [exercises 2](https://mlavrauw.github.io/GapDaysSpring2025/2_exercises_ML.pdf) / Parallel: working session for developers
   - 15:30 *coffee break*
   - 16:00 Announcing GAP Logo contest winner & next GAP Days
   - 16:20 Talk: "GAP inside the OSCAR computer algebra system" (Thomas Breuer)
@@ -109,8 +109,8 @@ The schedule is subject to further changes.
 - **Friday**
 
   - 10:00 Stand up and technical discussion
-  - 10:30 Minicourse Michel Lavrauw: lecture 3
-  - 11:30 Minicourse Michel Lavrauw: exercises 3 / Parallel: working session for developers
+  - 10:30 Minicourse Michel Lavrauw: [lecture 3](https://mlavrauw.github.io/GapDaysSpring2025/3_lecture_ML.pdf)
+  - 11:30 Minicourse Michel Lavrauw: [exercises 3](https://mlavrauw.github.io/GapDaysSpring2025/3_exercises_ML.pdf) / Parallel: working session for developers
   - 12:30 *Lunch break*
   - 13:30 working session for developers
 <!--  - 14:30 Minicourse Michel Lavrauw: exercises 3 / Parallel: working session for developers -->
